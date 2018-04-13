@@ -1,3 +1,5 @@
 def display_board
-  print "\n  cells = ["   ","   ","   "]\n  row = [  |  |  ]\nseparating lines = [-----------,-----------]\n"
+  print "  cells = [,,] 
+  row = [  |  |  ]
+  separating lines = [-----------,-----------]"
 end
